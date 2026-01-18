@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/mowuko-amoussou-kpakpa">Mowuko Amoussou-Kpakpa</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/mowuko-amoussou-kpakpa">Isaac Amoussou-Kpakpa</a>'s IT and Cybersecurity Portfolio 🔐
 
 I am a **Cybersecurity Analyst** focused on **Security Engineering** by building detections and Python tools to drive proactive defense against modern threats.
 
