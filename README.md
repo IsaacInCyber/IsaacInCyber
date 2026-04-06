@@ -11,7 +11,7 @@ Please feel free to check them out and see the work I’ve put into enhancing **
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
 ## 🔍 SIEM Detection Engineering
-- **[Detection Engineering Portfolio](https://github.com/IsaacInCyber/detection-engineering-portfolio)**  - 
+- **[Detection Engineering Portfolio](https://github.com/IsaacInCyber/detection-engineering-portfolio)**   
 
 <hr/>
 
