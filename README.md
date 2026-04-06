@@ -2,7 +2,7 @@
 
 I am a **Cybersecurity Analyst** focused on **Security Engineering** by building detections and Python tools to drive proactive defense against modern threats.
 
-I’m a Cybersecurity Analyst building toward Security Engineering. I am passionate about tackling complex challenges through hands-on projects, ranging from **Vulnerability Management** and **Threat Detection** to **Tool Development**. In this repository, you’ll find Python tooling, KQL detections, and automation that turn security work into scalable systems. This portfolio **showcases practical examples of my work, including** code, projects, and repeatable fixes.
+I am passionate about tackling complex challenges through hands-on projects, ranging from **Vulnerability Management** and **Threat Detection** to **Tool Development**. In this repository, you’ll find Python tooling, KQL detections, and automation that turn security work into scalable systems. This portfolio **showcases practical examples of my work, including** code, projects, and repeatable fixes.
 
 Please feel free to check them out and see the work I’ve put into enhancing **proactive defense** and **automation**!
 
