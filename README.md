@@ -6,7 +6,7 @@ I am passionate about tackling complex challenges through hands-on projects, ran
 
 Please feel free to check them out and see the work I’ve put into enhancing **proactive defense** and **automation**!
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management Implementation
 - **[Vulnerability Management Program Implementation](https://github.com/IsaacInCyber/Vulnerability-Program-Implementation-)**
 
 ## 🔍 SIEM Detection Engineering
