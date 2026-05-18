@@ -12,6 +12,9 @@ Please feel free to check them out and see the work I’ve put into enhancing **
 ## 🔍 SIEM Detection Engineering
 - **[Detection Engineering Portfolio](https://github.com/IsaacInCyber/detection-engineering-portfolio)**   
 
+
+## 🛠️ Tool Development
+- **[Sentinel SIEM Data Enrichment](https://github.com/IsaacInCyber/sentinel-siem-enrichment)** — Python scripts for enriching Microsoft Sentinel SIEM data with threat intelligence, geolocation, and contextual data
 <hr/>
 
 ## 🤳 Connect With Me
